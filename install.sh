@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/vampire/vampire.py",
+    "postStartCommand": "python3 /workspaces/armaanddos/vampire.py",
     "customizations": {
         "vscode": {
             "settings": {
